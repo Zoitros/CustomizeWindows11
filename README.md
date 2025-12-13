@@ -123,27 +123,3 @@ If you find this useful:
   ⭐ Star the repository
   🛠️ Fork and customize
   📄 Submit improvements or fixes
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
