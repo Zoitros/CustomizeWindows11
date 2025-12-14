@@ -41,11 +41,13 @@ ISO_ROOT\
 │
 ├─ autounattend.xml
 │
-└─ Windows\
-   └─ Setup\
-      ├─ ScriptPost-Setup Automated Onstallations.cmd
-      ├─ Files\
-      └─ Programs\
+└─ sources\
+   └─ $OEM$\
+      ├─ $$\
+        ├─ Setup\
+          ├─ Script\
+          ├─ Programs\
+    
 autounattend.xml must be placed in the root of the installation media (USB or ISO) to be detected automatically by Windows Setup.
 
 
